@@ -1,2 +1,2 @@
 # BowlingVR
- Jeu de quilles en VR
+ Jeu de quilles en VR pour appareils Occulus Quest. 
